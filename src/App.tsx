@@ -1,8 +1,6 @@
-import { useState } from 'react'
 import loadingIcon from './assets/react.svg'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
